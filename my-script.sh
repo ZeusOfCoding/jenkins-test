@@ -1,1 +1,1 @@
-echo 'Test is successully completed! 😍😍'
+echo 'Test is successully completed! 😍😍😍'
