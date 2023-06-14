@@ -1,4 +1,4 @@
-package com.pnb.controllers;
+package com.pnb.jenkinstest.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
