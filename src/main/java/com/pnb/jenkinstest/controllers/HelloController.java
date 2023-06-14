@@ -10,7 +10,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String greetings(){
-        return "Hello from jenkins test app 😍😍😍. Here time is " + new Date().toString();
+        return "Hello from jenkins test app 😍😍😍😍. Here time is " + new Date().toString();
     }
 
 }
